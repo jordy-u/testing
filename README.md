@@ -7,4 +7,4 @@ The purpose of this repository is to test with git.
 A: No
 
 ### Q: Can I use it?
-A: sure...?
+A: sure....?
